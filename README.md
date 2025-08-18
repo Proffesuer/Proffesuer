@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Proffesuer
 - 👀 I’m a Fullstack Developer in both web and android(reactjs,rubi,firebase,flutter,kotlin,Dart,php...
 - 🌱 I’m a undergraduate from The Cathlic University of Eastern Africa.
-- 🌱 I’m an entreprenuer and a founder of The Bennavi Softsolution powered By Xiracom Group
+- 🌱 I’m an entreprenuer and a founder of The XIRACOM LIMITED.
 - 💞️ I’m looking to collaborate on innovating new ideas in the Technology industries...
   
 
